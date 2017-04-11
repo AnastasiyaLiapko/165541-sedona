@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Anastasiya Liapko](https://up.htmlacademy.ru/htmlcss/17/user/165541).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Зубов](https://htmlacademy.ru/profile/id42701).
 
 ---
 
